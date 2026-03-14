@@ -8,11 +8,11 @@ I'm a student and aspiring developer from India who enjoys building intelligent 
 
 - 🔭 Currently learning **Full Stack Development, Automation Systems, and AI-powered tools**
 - ⚙️ Building **developer workflows and automation tools** to simplify complex tasks
-- 📐 Exploring **Spec-Based Development using Spec-Kit**
+- 📐 Exploring **Vibe Coding and Spec-Based Development using Spec-Kit**
 - 🌱 Strengthening my **problem-solving skills through Data Structures & Algorithms**
 - 💻 Currently learning and coding in **Java and C++**
 - 🧠 Passionate about **solving real-world problems using technology**
-- 🎨 Interested in building **modern, interactive, and visually engaging UI experiences**
+- 🎨 Interested in building **modern, interactive, and visually engaging UI experiences using Vibe coding and spec based development**
 - 🤖 Curious about **AI systems, intelligent automation, and developer productivity tools**
 
 💬 **Ask me about:**  
