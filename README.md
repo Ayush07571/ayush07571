@@ -84,10 +84,6 @@ The **Neon Arena landing page** explores a **futuristic gaming-inspired interfac
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush07571&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush07571&layout=compact&theme=radical" />
 </p>
 
